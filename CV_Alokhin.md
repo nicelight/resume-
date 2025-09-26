@@ -48,7 +48,7 @@ Electronics engineer and DIY-maker. I enjoy seeing an idea slowly turn into a wo
 
 ### Programs & Teaching
 
-* **Teaching experience:** instructor at the private programming school **Coddy** (left due to unpaid promised compensation). I run individual courses (mostly online) and in-person workshops.
+* **Teaching experience:** instructor at the private programming school **Coddy**. I run individual courses (mostly online) and in-person workshops.
 
 * **Workshops delivered multiple times:** basics of robotics; Python bot programming; introduction to website creation; “AI tools for engineers”.
 
