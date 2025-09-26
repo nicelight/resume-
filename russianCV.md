@@ -28,7 +28,7 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 * **Игровой шоу‑рум** — свето‑звуковая автоматика для корпоративных игр; пульт оператора, сценарии эффектов, удаленный контроль.
 
-  Ссылка: [[https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076](https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076)](https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076]%28https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076%29)
+  https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076
 
 * **Smart‑box для гидропоники** — поддержание питательного раствора, контроль влажности/обдува, «умное» освещение (закаты/рассветы). На установке стабильно собирали сладкий горох.
 
@@ -61,19 +61,19 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
   Веду онлайн сообщества, где активно консультирую ребят по электронике и программированию. Имею свои уроки на ютубе.
 
-  * YouTube‑канал **Planting Asia** — ~0.77k подписчиков
+  * YouTube‑канал  ~0.77k подписчиков
 
-    [[https://www.youtube.com/@plantingAsia](https://www.youtube.com/@plantingAsia)](https://www.youtube.com/@plantingAsia]%28https://www.youtube.com/@plantingAsia%29)
+    https://www.youtube.com/@plantingAsia
 
   * Telegram‑сообщества:
 
-    **Arduino RU** (~2.3k, [[https://t.me/ProArduino](https://t.me/ProArduino)) ](https://t.me/ProArduino]%28https://t.me/ProArduino%29%29 )
+    **Arduino RU** ~2.3k, https://t.me/ProArduino
 
-    SmartFarm DIY (~0.13k, [[https://t.me/smartfarm_diy](https://t.me/smartfarm_diy)) ](https://t.me/smartfarm_diy]%28https://t.me/smartfarm_diy%29%29 )
+    **SmartFarm DIY** ~0.13k, https://t.me/smartfarm_diy
 
-    **Галерея гидропоники** (~50, [[https://t.me/ponics1](https://t.me/ponics1)](https://t.me/ponics1]%28https://t.me/ponics1%29))
+    **Галерея гидропоники** ~50 https://t.me/ponics1
 
-    В Худжанде периодически организовываю встречи по интеллектуальным настольным играм Khujand Games (~80, [[https://t.me/khujandgaming](https://t.me/khujandgaming)](https://t.me/khujandgaming]%28https://t.me/khujandgaming%29))
+    В Худжанде периодически организовываю встречи по интеллектуальным настольным играм Khujand Games https://t.me/khujandgaming
 
 * **Безопасность:** Есть небольшой опыт инженера по ОТ и ТБ в школе; вводные safety‑брифинги и правила работы с инструментом/электроникой.
 
@@ -136,13 +136,11 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 ### Портфолио и ссылки
 
-* GitHub: [[https://github.com/nicelight?tab=repositories](https://github.com/nicelight?tab=repositories)](https://github.com/nicelight?tab=repositories]%28https://github.com/nicelight?tab=repositories%29)
+* GitHub: https://github.com/nicelight?tab=repositories
 
-* YouTube: [[https://www.youtube.com/@plantingAsia](https://www.youtube.com/@plantingAsia)](https://www.youtube.com/@plantingAsia]%28https://www.youtube.com/@plantingAsia%29)
+* YouTube: https://www.youtube.com/@plantingAsia
 
-* Игровой шоу‑рум (фото/описание): [[https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076](https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076)](https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076]%28https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076%29)
-
-* Telegram‑сообщества: Arduino RU — [[https://t.me/ProArduino](https://t.me/ProArduino)](https://t.me/ProArduino]%28https://t.me/ProArduino%29) · SmartFarm DIY — [[https://t.me/smartfarm_diy](https://t.me/smartfarm_diy)](https://t.me/smartfarm_diy]%28https://t.me/smartfarm_diy%29) · Галерея гидропоники — [[https://t.me/ponics1](https://t.me/ponics1)](https://t.me/ponics1]%28https://t.me/ponics1%29) · Khujand Games — [[https://t.me/khujandgaming](https://t.me/khujandgaming)](https://t.me/khujandgaming]%28https://t.me/khujandgaming%29)
+* Игровой шоу‑рум (фото/описание): https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076
 
 
 ### Языки
