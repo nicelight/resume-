@@ -1,8 +1,8 @@
 # **CV Сергей Алехин**
 
-****Embedded-инженер • Мейкер • Ментор STEAM****
+**Embedded-инженер • DIY  • Ментор**
 
-Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandroid2@gmail.com)](mailto:[sergiosandroid2@gmail.com](mailto:sergiosandroid2@gmail.com))
+Telegram: @dyingseed
 
 Локация: Худжанд, Таджикистан · Гражданство: Украина · Готов к командировкам
 
