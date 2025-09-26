@@ -6,8 +6,6 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 Локация: Худжанд, Таджикистан · Гражданство: Украина · Готов к командировкам
 
----
-
 **## РЕЗЮМЕ (CV)**
 
 **### Профиль**
@@ -25,8 +23,6 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 4. Менторство и персональное обучение
 
 5. Продвинутые практики применения нейросетей для повышения продуктивности и прокачки инженерных скиллов.
-
----
 
 **### Ключевые достижения 2023–2025**
 
@@ -52,7 +48,6 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 * ****3D‑печать**** — сборка и калибровка DIY‑3D‑принтера, печать корпусов и деталей.
 
----
 
 **### Программы и обучение**
 
@@ -84,7 +79,6 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 * ****Безопасность:**** Есть небольшой опыт инженера по ОТ и ТБ в школе; вводные safety‑брифинги и правила работы с инструментом/электроникой.
 
----
 
 **### Опыт работы (избранное)**
 
@@ -120,15 +114,12 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 ****Ряд инженерных ролей 2009–2016**** — сервисная электроника, АСУ ТП, внедрение «умных» счетчиков электроэнергии, разработка квест‑румов (радиомодули, Arduino, сетевые топологии), пусконаладка и сопровождение проектов «под ключ».
 
----\
 
 **### Образование**
 
 ****Национальный аэрокосмический университет «ХАИ», Харьков**** — магистр (2009)
 
 Специальность: радиоэлектронные системы и комплексы летательных аппаратов
-
----\
 
 **### Инструменты и технологии**
 
@@ -144,7 +135,6 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 * ****Управление:**** Google Sheets/Docs, структурированные Telegram‑чаты, базовая инвентаризация/закупки.
 
----
 
 **### Портфолио и ссылки**
 
@@ -156,13 +146,11 @@ Telegram: @ustoelectro · Email: [[sergiosandroid2@gmail.com](mailto:sergiosandr
 
 * Telegram‑сообщества: Arduino RU — [[https://t.me/ProArduino](https://t.me/ProArduino)](https://t.me/ProArduino]%28https://t.me/ProArduino%29) · SmartFarm DIY — [[https://t.me/smartfarm_diy](https://t.me/smartfarm_diy)](https://t.me/smartfarm_diy]%28https://t.me/smartfarm_diy%29) · Галерея гидропоники — [[https://t.me/ponics1](https://t.me/ponics1)](https://t.me/ponics1]%28https://t.me/ponics1%29) · Khujand Games — [[https://t.me/khujandgaming](https://t.me/khujandgaming)](https://t.me/khujandgaming]%28https://t.me/khujandgaming%29)
 
----\
 
 **### Языки**
 
 Русский — родной · Украинский — C2 · Английский — B2  · Таджикский — самый начальный уровень
 
----
 
 **### Правовой статус и доступность**
 
