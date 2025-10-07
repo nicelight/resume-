@@ -26,14 +26,16 @@ Electronics engineer and DIY-maker. I enjoy seeing an idea slowly turn into a wo
 
 ### Key Achievements (2023–2025)
 
-* **Game Showroom** — light & sound automation for corporate games; operator console, effect scenarios, remote control.  
-  https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076
+* **Agrivoltaics installation** — semi-shading solar panels for a raspberry field; installation and commissioning.
+
+* **Access Control System** — QR bracelets + camera, verification in an account system, and turnstile control. Stack: Node.js, ESP32, Ethernet, QR scanning.
 
 * **Hydroponics Smart-Box** — nutrient solution control, humidity/ventilation, smart lighting (sunset/sunrise). The setup consistently yielded sweet peas.
 
 * **AI Photo Processing Server** — web panel and pipelines: background replacement, face-swap, style-transfer; task queue and basic moderation.
 
-* **Access Control System** — QR bracelets + camera, verification in an account system, and turnstile control. Stack: Node.js, ESP32, Ethernet, QR scanning.
+* **Game Showroom** — light & sound automation for corporate games; operator console, effect scenarios, remote control.  
+  https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076
 
 * **Interactive “Cars” Attraction** — Wi-Fi control of carts; speed tied to exercise-bike pedals; multiplayer mode.
 
@@ -43,34 +45,7 @@ Electronics engineer and DIY-maker. I enjoy seeing an idea slowly turn into a wo
 
 * **Offline Voice Assistant** — Whisper server + ESP32 “satellite” with a digital microphone.
 
-* **Agrivoltaics installation** — semi-shading solar panels for a raspberry field; installation and commissioning.
-
 * **3D Printing** — DIY 3D printer assembly and calibration; printing enclosures and parts.
-
-
-### Programs & Teaching
-
-* **Teaching experience:** instructor at the private programming school **Coddy**. I run individual courses (mostly online) and in-person workshops.
-
-* **Workshops delivered multiple times:** basics of robotics; Python bot programming; introduction to website creation; “AI tools for engineers”.
-
-* **One-on-one tutoring topics:** embedded development on Arduino-based boards; building smart-home systems; the programmer’s path from zero to junior full-stack.
-
-* **Community consulting:** I actively help in online communities, mainly Telegram groups. I also run a YouTube channel.
-
-* **Audience:** school and university students; sometimes adults 20–35.
-
-* **Communities & media:**  
-I own niche Telegram communities where I actively consult on electronics and programming. I also publish lessons on YouTube.
-  * YouTube channel ~0.77k subscribers  
-    https://www.youtube.com/@plantingAsia
-  * Telegram communities:  
-    **Arduino RU** ~2.3k — https://t.me/ProArduino  
-    **SmartFarm DIY** ~0.13k — https://t.me/smartfarm_diy  
-    **Hydroponics Gallery** ~50 — https://t.me/ponics1  
-    In Khujand I occasionally host meetups for intellectual board games — Khujand Games: https://t.me/khujandgaming
-
-* **Safety:** some experience as an OSH (occupational safety & health) engineer at a school; safety briefings and rules for tools/electronics.
 
 
 ### Work Experience (selected)
@@ -102,6 +77,32 @@ Minor changes on Boeing/Airbus aircraft; permissible load calculations in electr
 
 **National Aerospace University “KhAI”, Kharkiv** — Master’s (2009)  
 Major: Radio-electronic systems and complexes of aircraft
+
+### Programs & Teaching
+
+* **Teaching experience:** instructor at the private programming school **Coddy**. I run individual courses (mostly online) and in-person workshops.
+
+* **Workshops delivered multiple times:** basics of robotics; Python bot programming; introduction to website creation; “AI tools for engineers”.
+
+* **One-on-one tutoring topics:** embedded development on Arduino-based boards; building smart-home systems; the programmer’s path from zero to junior full-stack.
+
+* **Community consulting:** I actively help in online communities, mainly Telegram groups. I also run a YouTube channel.
+
+* **Audience:** school and university students; sometimes adults 20–35.
+
+* **Communities & media:**  
+I own niche Telegram communities where I actively consult on electronics and programming. I also publish lessons on YouTube.
+  * YouTube channel ~0.77k subscribers  
+    https://www.youtube.com/@plantingAsia
+  * Telegram communities:  
+    **Arduino RU** ~2.3k — https://t.me/ProArduino  
+    **SmartFarm DIY** ~0.13k — https://t.me/smartfarm_diy  
+    **Hydroponics Gallery** ~50 — https://t.me/ponics1  
+    In Khujand I occasionally host meetups for intellectual board games — Khujand Games: https://t.me/khujandgaming
+
+* **Safety:** some experience as an OSH (occupational safety & health) engineer at a school; safety briefings and rules for tools/electronics.
+
+
 
 
 ### Tools & Technologies
