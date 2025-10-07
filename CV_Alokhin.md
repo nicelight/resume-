@@ -18,35 +18,12 @@ Electronics engineer and DIY-maker. I enjoy seeing an idea slowly turn into a wo
 
 **Top-5 skills:**
 
-1. IoT with ESP32 (Arduino, ESPHome, MQTT, Telegram bots, web interfaces)
-2. Custom web servers/panels (FastAPI/Node.js)
-3. Python (scripts, bots, backend services)
-4. Mentoring and one-on-one teaching
-5. Advanced use of AI to boost productivity and level up engineering skills
-
-### Key Achievements (2023–2025)
-
-* **Agrivoltaics installation** — semi-shading solar panels for a raspberry field; installation and commissioning.
-
-* **Access Control System** — QR bracelets + camera, verification in an account system, and turnstile control. Stack: Node.js, ESP32, Ethernet, QR scanning.
-
-* **Hydroponics Smart-Box** — nutrient solution control, humidity/ventilation, smart lighting (sunset/sunrise). The setup consistently yielded sweet peas.
-
-* **AI Photo Processing Server** — web panel and pipelines: background replacement, face-swap, style-transfer; task queue and basic moderation.
-
-* **Game Showroom** — light & sound automation for corporate games; operator console, effect scenarios, remote control.  
-  https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076
-
-* **Interactive “Cars” Attraction** — Wi-Fi control of carts; speed tied to exercise-bike pedals; multiplayer mode.
-
-* **Smart-home sensor line** — T/RH/pressure/CO₂ → home-automation server; dashboards in Home Assistant.
-
-* **Home Assistant** — deployment and setup of a smart-home server, automations, dashboards.
-
-* **Offline Voice Assistant** — Whisper server + ESP32 “satellite” with a digital microphone.
-
-* **3D Printing** — DIY 3D printer assembly and calibration; printing enclosures and parts.
-
+1. IoT electronics with ESP32 (Arduino, ESPHome, MQTT, Telegram bots, web interfaces)
+2. Industrial and domestic equipment maintenance.
+3. Custom web servers/panels (FastAPI/Node.js)
+4. Python (scripts, bots, backend services)
+5. Mentoring and one-on-one teaching
+6. Advanced use of AI to boost productivity and level up engineering skills
 
 ### Work Experience (selected)
 
@@ -77,6 +54,31 @@ Minor changes on Boeing/Airbus aircraft; permissible load calculations in electr
 
 **National Aerospace University “KhAI”, Kharkiv** — Master’s (2009)  
 Major: Radio-electronic systems and complexes of aircraft
+
+
+### Key Achievements (2023–2025)
+
+* **Agrivoltaics installation** — semi-shading solar panels for a raspberry field; installation and commissioning.
+
+* **Access Control System** — QR bracelets + camera, verification in an account system, and turnstile control. Stack: Node.js, ESP32, Ethernet, QR scanning.
+
+* **Hydroponics Smart-Box** — nutrient solution control, humidity/ventilation, smart lighting (sunset/sunrise). The setup consistently yielded sweet peas.
+
+* **AI Photo Processing Server** — web panel and pipelines: background replacement, face-swap, style-transfer; task queue and basic moderation.
+
+* **Game Showroom** — light & sound automation for corporate games; operator console, effect scenarios, remote control.  
+  https://community.alexgyver.ru/threads/igrovaja-svetomuzykalnaja-komnata-lounge-brain-ring-2024.9451/#post-164076
+
+* **Interactive “Cars” Attraction** — Wi-Fi control of carts; speed tied to exercise-bike pedals; multiplayer mode.
+
+* **Smart-home sensor line** — T/RH/pressure/CO₂ → home-automation server; dashboards in Home Assistant.
+
+* **Home Assistant** — deployment and setup of a smart-home server, automations, dashboards.
+
+* **Offline Voice Assistant** — Whisper server + ESP32 “satellite” with a digital microphone.
+
+* **3D Printing** — DIY 3D printer assembly and calibration; printing enclosures and parts.
+
 
 ### Programs & Teaching
 
