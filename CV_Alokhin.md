@@ -9,6 +9,8 @@ Telegram: @dyingseed
 
 Location: Khujand, Tajikistan · Citizenship: Ukraine · Open to business travel
 
+![me](ava.png)
+
 
 ### Profile
 
